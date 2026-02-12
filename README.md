@@ -1,4 +1,4 @@
-# Social Media Addiction Classification using Machine Learning
+# Student Performance Impact due to Social Media - Classification using Machine Learning
 
 ## 1. Problem Statement
 
